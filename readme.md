@@ -2,9 +2,9 @@
 
 <img src="https://github.com/kkamara/useful/blob/main/php-reactjs-boilerplate2.png?raw=true" alt="php-reactjs-boilerplate2.png" width=""/>
 
-# PHP Reactjs Boilerplate [![API](https://github.com/kkamara/php-reactjs-boilerplate/actions/workflows/build.yml/badge.svg)](https://github.com/kkamara/php-reactjs-boilerplate/actions/workflows/build.yml)
+# Laravel Graphql Web App [![API](https://github.com/kkamara/laravel-graphql-web-app/actions/workflows/build.yml/badge.svg)](https://github.com/kkamara/laravel-graphql-web-app/actions/workflows/build.yml)
 
-(2021) A GDPR compliant Laravel 10.x boilerplate with Redux.
+A Facebook Graphql web app.
 
 * [Using Thunder Client?](#thunder-client)
 
